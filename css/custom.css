@@ -5,7 +5,7 @@ body,
 #header{
     width: 100%;
     background-color: transparent;
-    transition: background ease-out 0.2s;
+    transition: ease-out 0.2s;
 }
 #header .navbar-collapse{
     width: auto;
@@ -37,7 +37,7 @@ body {
 #header {
   width: 100%;
   background-color: transparent;
-  transition: background ease-out 0.2s;
+
 }
 
 #header.active {
