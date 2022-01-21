@@ -147,8 +147,11 @@ body {
   }
   
   #contato .email form {
-    width: 60%;
-    display: flex;
+    width: 40%;
+    display: center;
+    
+    
+   
   }
   
   #contato .email .form-control,
@@ -164,7 +167,7 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: flex-end;
+    justify-content:center;
   }
   
   #contato ul li {
@@ -196,3 +199,4 @@ body {
   #contato ul li img {
     max-height: 20px;
   }
+  
