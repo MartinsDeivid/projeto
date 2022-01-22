@@ -114,8 +114,6 @@ body {
     width: 40%;
     display: center;
     
-    
-   
   }
   
   #contato .email .form-control,
@@ -123,8 +121,6 @@ body {
     background: none;
     color: #fff;
     width: 60%;
-
-
   }
       /* Contatos como:instagran,facebook...*/
   #contato ul {
